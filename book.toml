@@ -7,3 +7,6 @@ title = "SJO747 - Wave Loads and Seakeeping"
 
 [preprocessor.katex]
 after = ["links"]
+
+[build]
+create-missing = false
