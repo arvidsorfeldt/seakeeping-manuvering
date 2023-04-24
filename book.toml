@@ -10,3 +10,6 @@ after = ["links"]
 
 [build]
 create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/arvidsorfeldt/seakeeping-manuvering"
